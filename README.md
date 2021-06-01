@@ -1,2 +1,3 @@
-# tuneshop-strapi
-CMS for my Tuneshop assignment
+# Strapi application
+
+A quick description of your strapi application
