@@ -19,13 +19,16 @@
       "type": "decimal"
     },
     "description": {
-      "type": "string"
+      "type": "text"
     },
     "imageURL": {
       "type": "string"
     },
     "featured": {
       "type": "boolean"
+    },
+    "heading": {
+      "type": "string"
     }
   }
 }
